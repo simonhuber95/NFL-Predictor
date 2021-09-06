@@ -1,8 +1,8 @@
-import pandas as pd
-from pandas.io.json import json_normalize
-import requests
-from bs4 import BeautifulSoup
-import json
+# import pandas as pd
+# from pandas.io.json import json_normalize
+# import requests
+import os
+# import json
 
 # Games
 # https://www.pro-football-reference.com/years/2020/games.htm#games
@@ -27,21 +27,9 @@ def load_data(type, year):
     # playerstats = raw.drop(['Rk'], axis=1)
     #return playerstats
     return df
+par = "C:/Users/HUBERS/OneDrive - FUJITSU/Projects/NFL-Predictor/data/games/"
 
-
-url = "https://www.pro-football-reference.com/years/2020/#team_stats"
-res = requests.get(url, verify=False)
-soup = BeautifulSoup(res.content, 'html.parser')
-
-soup = soup.find_all(id="team_stats")
-print(len(soup), type(soup))
-print(soup)
-soup = soup[0].find_all('table')
-print(len(soup))
-# print(soup.prettify())
-# table = soup.find('table')
-# print(table)
-# df = pd.read_html(str(soup))[0]
-# print(df)
-# playerstats = load_data("offense", 2020)
-# print(playerstats)
+for i in range(2001,2019):
+    file = "Games{}.csv".format(i)
+    filename = os.path.join(par,file)
+    f = open(filename, "w")
