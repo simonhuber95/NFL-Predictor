@@ -13,8 +13,18 @@ df = df.drop(['Team','Year'], axis = 1)
 input_shape = len(df.columns)*2 + 2 
 print(df.columns, input_shape)
 
+# Model configuration
+batch_size = 32
+loss_function = sparse_categorical_crossentropy
+no_epochs = 25
+optimizer = Adam()
+verbosity = 1
+num_folds = 10
+
 def load_data():
     
+
+
 
 def define_model(input_shape, layers = [], dropout = True):
     model = Sequential
@@ -43,7 +53,7 @@ kfold = KFold(n_splits=num_folds, shuffle=True)
 fold_no = 1
 for train, test in kfold.split(inputs, targets):
 
-  define_model(input_shape=(98,), layers=[128,256,256,128,64,32,16])
+  model = define_model(input_shape=(98,), layers=[128,256,256,128,64,32,16])
 
 
   # Generate a print
