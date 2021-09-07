@@ -1,257 +1,257 @@
-Week,Day,Date,Time,Winner/tie,,Loser/tie,,Pts,Pts,YdsW,TOW,YdsL,TOL
-1,Thu,2020-09-10,8:20PM,Kansas City Chiefs,,Houston Texans,boxscore,34,20,369,0,360,1
-1,Sun,2020-09-13,1:00PM,Seattle Seahawks,@,Atlanta Falcons,boxscore,38,25,383,0,506,2
-1,Sun,2020-09-13,1:00PM,Buffalo Bills,,New York Jets,boxscore,27,17,404,2,254,2
-1,Sun,2020-09-13,1:00PM,Washington Football Team,,Philadelphia Eagles,boxscore,27,17,239,0,265,3
-1,Sun,2020-09-13,1:00PM,Green Bay Packers,@,Minnesota Vikings,boxscore,43,34,522,0,382,1
-1,Sun,2020-09-13,1:00PM,Baltimore Ravens,,Cleveland Browns,boxscore,38,6,381,1,306,3
-1,Sun,2020-09-13,1:00PM,New England Patriots,,Miami Dolphins,boxscore,21,11,357,1,269,3
-1,Sun,2020-09-13,1:00PM,Jacksonville Jaguars,,Indianapolis Colts,boxscore,27,20,241,0,445,2
-1,Sun,2020-09-13,1:00PM,Las Vegas Raiders,@,Carolina Panthers,boxscore,34,30,372,0,388,0
-1,Sun,2020-09-13,1:00PM,Chicago Bears,@,Detroit Lions,boxscore,27,23,363,0,426,1
-1,Sun,2020-09-13,4:05PM,Los Angeles Chargers,@,Cincinnati Bengals,boxscore,16,13,362,0,295,2
-1,Sun,2020-09-13,4:25PM,New Orleans Saints,,Tampa Bay Buccaneers,boxscore,34,23,271,0,310,3
-1,Sun,2020-09-13,4:25PM,Arizona Cardinals,@,San Francisco 49ers,boxscore,24,20,404,1,366,0
-1,Sun,2020-09-13,8:20PM,Los Angeles Rams,,Dallas Cowboys,boxscore,20,17,422,1,380,0
-1,Mon,2020-09-14,7:15PM,Pittsburgh Steelers,@,New York Giants,boxscore,26,16,349,1,291,2
-1,Mon,2020-09-14,10:10PM,Tennessee Titans,@,Denver Broncos,boxscore,16,14,377,0,323,1
-2,Thu,2020-09-17,8:20PM,Cleveland Browns,,Cincinnati Bengals,boxscore,35,30,434,1,353,1
-2,Sun,2020-09-20,1:00PM,San Francisco 49ers,@,New York Jets,boxscore,31,13,359,1,277,0
-2,Sun,2020-09-20,1:00PM,Pittsburgh Steelers,,Denver Broncos,boxscore,26,21,410,2,319,2
-2,Sun,2020-09-20,1:00PM,Tampa Bay Buccaneers,,Carolina Panthers,boxscore,31,17,339,2,427,4
-2,Sun,2020-09-20,1:00PM,Green Bay Packers,,Detroit Lions,boxscore,42,21,488,0,307,1
-2,Sun,2020-09-20,1:00PM,Chicago Bears,,New York Giants,boxscore,17,13,304,2,295,2
-2,Sun,2020-09-20,1:00PM,Tennessee Titans,,Jacksonville Jaguars,boxscore,33,30,354,0,480,2
-2,Sun,2020-09-20,1:00PM,Dallas Cowboys,,Atlanta Falcons,boxscore,40,39,570,3,380,0
-2,Sun,2020-09-20,1:00PM,Buffalo Bills,@,Miami Dolphins,boxscore,31,28,523,1,410,0
-2,Sun,2020-09-20,1:00PM,Los Angeles Rams,@,Philadelphia Eagles,boxscore,37,19,449,1,363,3
-2,Sun,2020-09-20,1:00PM,Indianapolis Colts,,Minnesota Vikings,boxscore,28,11,354,1,175,3
-2,Sun,2020-09-20,4:05PM,Arizona Cardinals,,Washington Football Team,boxscore,30,15,438,1,316,2
-2,Sun,2020-09-20,4:25PM,Baltimore Ravens,@,Houston Texans,boxscore,33,16,407,0,304,2
-2,Sun,2020-09-20,4:25PM,Kansas City Chiefs,@,Los Angeles Chargers,boxscore,23,20,414,0,479,1
-2,Sun,2020-09-20,8:20PM,Seattle Seahawks,,New England Patriots,boxscore,35,30,429,1,464,1
-2,Mon,2020-09-21,8:15PM,Las Vegas Raiders,,New Orleans Saints,boxscore,34,24,377,1,424,1
-3,Thu,2020-09-24,8:20PM,Miami Dolphins,@,Jacksonville Jaguars,boxscore,31,13,294,0,318,2
-3,Sun,2020-09-27,1:00PM,Chicago Bears,@,Atlanta Falcons,boxscore,30,26,437,2,371,1
-3,Sun,2020-09-27,1:00PM,Buffalo Bills,,Los Angeles Rams,boxscore,35,32,375,2,478,2
-3,Sun,2020-09-27,1:00PM,Philadelphia Eagles,,Cincinnati Bengals,boxscore,23,23,378,2,304,0
-3,Sun,2020-09-27,1:00PM,Tennessee Titans,@,Minnesota Vikings,boxscore,31,30,444,1,464,3
-3,Sun,2020-09-27,1:00PM,New England Patriots,,Las Vegas Raiders,boxscore,36,20,406,1,375,3
-3,Sun,2020-09-27,1:00PM,San Francisco 49ers,@,New York Giants,boxscore,36,9,420,0,231,3
-3,Sun,2020-09-27,1:00PM,Pittsburgh Steelers,,Houston Texans,boxscore,28,21,387,0,260,1
-3,Sun,2020-09-27,1:00PM,Cleveland Browns,,Washington Football Team,boxscore,34,20,300,0,309,5
-3,Sun,2020-09-27,4:05PM,Indianapolis Colts,,New York Jets,boxscore,36,7,353,0,260,3
-3,Sun,2020-09-27,4:05PM,Carolina Panthers,@,Los Angeles Chargers,boxscore,21,16,302,0,436,4
-3,Sun,2020-09-27,4:25PM,Seattle Seahawks,,Dallas Cowboys,boxscore,38,31,412,1,522,3
-3,Sun,2020-09-27,4:25PM,Detroit Lions,@,Arizona Cardinals,boxscore,26,23,322,0,377,3
-3,Sun,2020-09-27,4:25PM,Tampa Bay Buccaneers,@,Denver Broncos,boxscore,28,10,353,0,226,2
-3,Sun,2020-09-27,8:20PM,Green Bay Packers,@,New Orleans Saints,boxscore,37,30,369,0,397,1
-3,Mon,2020-09-28,8:15PM,Kansas City Chiefs,@,Baltimore Ravens,boxscore,34,20,517,1,228,1
-4,Thu,2020-10-01,8:20PM,Denver Broncos,@,New York Jets,boxscore,37,28,359,3,321,0
-4,Sun,2020-10-04,1:00PM,Carolina Panthers,,Arizona Cardinals,boxscore,31,21,444,1,262,1
-4,Sun,2020-10-04,1:00PM,Baltimore Ravens,@,Washington Football Team,boxscore,31,17,350,2,343,1
-4,Sun,2020-10-04,1:00PM,Minnesota Vikings,@,Houston Texans,boxscore,31,23,410,0,386,1
-4,Sun,2020-10-04,1:00PM,Cleveland Browns,@,Dallas Cowboys,boxscore,49,38,508,0,566,3
-4,Sun,2020-10-04,1:00PM,New Orleans Saints,@,Detroit Lions,boxscore,35,29,392,1,281,1
-4,Sun,2020-10-04,1:00PM,Indianapolis Colts,@,Chicago Bears,boxscore,19,11,289,0,269,1
-4,Sun,2020-10-04,1:00PM,Tampa Bay Buccaneers,,Los Angeles Chargers,boxscore,38,31,484,1,324,2
-4,Sun,2020-10-04,1:00PM,Cincinnati Bengals,,Jacksonville Jaguars,boxscore,33,25,505,1,429,1
-4,Sun,2020-10-04,1:00PM,Seattle Seahawks,@,Miami Dolphins,boxscore,31,23,441,1,415,2
-4,Sun,2020-10-04,4:05PM,Los Angeles Rams,,New York Giants,boxscore,17,9,240,1,295,1
-4,Sun,2020-10-04,4:25PM,Buffalo Bills,@,Las Vegas Raiders,boxscore,30,23,337,0,383,2
-4,Sun,2020-10-04,8:20PM,Philadelphia Eagles,@,San Francisco 49ers,boxscore,25,20,267,1,417,3
-4,Mon,2020-10-05,7:05PM,Kansas City Chiefs,,New England Patriots,boxscore,26,10,323,1,357,4
-4,Mon,2020-10-05,8:15PM,Green Bay Packers,,Atlanta Falcons,boxscore,30,16,403,0,327,0
-5,Thu,2020-10-08,8:20PM,Chicago Bears,,Tampa Bay Buccaneers,boxscore,20,19,243,1,339,1
-5,Sun,2020-10-11,1:00PM,Carolina Panthers,@,Atlanta Falcons,boxscore,23,16,437,0,373,1
-5,Sun,2020-10-11,1:00PM,Arizona Cardinals,@,New York Jets,boxscore,30,10,496,1,285,0
-5,Sun,2020-10-11,1:00PM,Baltimore Ravens,,Cincinnati Bengals,boxscore,27,3,332,1,205,3
-5,Sun,2020-10-11,1:00PM,Las Vegas Raiders,@,Kansas City Chiefs,boxscore,40,32,490,1,413,1
-5,Sun,2020-10-11,1:00PM,Pittsburgh Steelers,,Philadelphia Eagles,boxscore,38,29,367,1,336,2
-5,Sun,2020-10-11,1:00PM,Los Angeles Rams,@,Washington Football Team,boxscore,30,10,429,1,108,0
-5,Sun,2020-10-11,1:00PM,Houston Texans,,Jacksonville Jaguars,boxscore,30,14,486,2,364,2
-5,Sun,2020-10-11,4:05PM,Miami Dolphins,@,San Francisco 49ers,boxscore,43,17,436,0,259,3
-5,Sun,2020-10-11,4:25PM,Dallas Cowboys,,New York Giants,boxscore,37,34,402,2,300,1
-5,Sun,2020-10-11,4:25PM,Cleveland Browns,,Indianapolis Colts,boxscore,32,23,385,2,308,2
-5,Sun,2020-10-11,8:20PM,Seattle Seahawks,,Minnesota Vikings,boxscore,27,26,314,1,449,2
-5,Mon,2020-10-12,8:15PM,New Orleans Saints,,Los Angeles Chargers,boxscore,30,27,408,1,350,0
-5,Tue,2020-10-13,7:00PM,Tennessee Titans,,Buffalo Bills,boxscore,42,16,334,0,370,3
-6,Sun,2020-10-18,1:00PM,Detroit Lions,@,Jacksonville Jaguars,boxscore,34,16,403,1,275,2
-6,Sun,2020-10-18,1:00PM,Denver Broncos,@,New England Patriots,boxscore,18,12,299,2,288,3
-6,Sun,2020-10-18,1:00PM,Baltimore Ravens,@,Philadelphia Eagles,boxscore,30,28,355,0,364,1
-6,Sun,2020-10-18,1:00PM,Tennessee Titans,,Houston Texans,boxscore,42,36,607,2,412,0
-6,Sun,2020-10-18,1:00PM,Pittsburgh Steelers,,Cleveland Browns,boxscore,38,7,277,0,220,2
-6,Sun,2020-10-18,1:00PM,Atlanta Falcons,@,Minnesota Vikings,boxscore,40,23,462,1,365,3
-6,Sun,2020-10-18,1:00PM,New York Giants,,Washington Football Team,boxscore,20,19,240,1,337,2
-6,Sun,2020-10-18,1:00PM,Chicago Bears,@,Carolina Panthers,boxscore,23,16,261,1,303,3
-6,Sun,2020-10-18,1:00PM,Indianapolis Colts,,Cincinnati Bengals,boxscore,31,27,430,2,398,1
-6,Sun,2020-10-18,4:05PM,Miami Dolphins,,New York Jets,boxscore,24,0,302,2,263,1
-6,Sun,2020-10-18,4:25PM,Tampa Bay Buccaneers,,Green Bay Packers,boxscore,38,10,324,0,201,2
-6,Sun,2020-10-18,8:20PM,San Francisco 49ers,,Los Angeles Rams,boxscore,24,16,390,0,311,1
-6,Mon,2020-10-19,5:00PM,Kansas City Chiefs,@,Buffalo Bills,boxscore,26,17,466,1,206,1
-6,Mon,2020-10-19,8:15PM,Arizona Cardinals,@,Dallas Cowboys,boxscore,38,10,438,0,344,4
-7,Thu,2020-10-22,8:20PM,Philadelphia Eagles,,New York Giants,boxscore,22,21,442,1,325,3
-7,Sun,2020-10-25,1:00PM,Pittsburgh Steelers,@,Tennessee Titans,boxscore,27,24,362,3,292,0
-7,Sun,2020-10-25,1:00PM,Green Bay Packers,@,Houston Texans,boxscore,35,20,379,0,365,1
-7,Sun,2020-10-25,1:00PM,Detroit Lions,@,Atlanta Falcons,boxscore,23,22,386,0,388,1
-7,Sun,2020-10-25,1:00PM,Buffalo Bills,@,New York Jets,boxscore,18,10,422,1,191,2
-7,Sun,2020-10-25,1:00PM,Washington Football Team,,Dallas Cowboys,boxscore,25,3,397,0,142,1
-7,Sun,2020-10-25,1:00PM,New Orleans Saints,,Carolina Panthers,boxscore,27,24,415,1,283,0
-7,Sun,2020-10-25,1:00PM,Cleveland Browns,@,Cincinnati Bengals,boxscore,37,34,398,1,468,2
-7,Sun,2020-10-25,4:05PM,Tampa Bay Buccaneers,@,Las Vegas Raiders,boxscore,45,20,454,0,347,1
-7,Sun,2020-10-25,4:25PM,San Francisco 49ers,@,New England Patriots,boxscore,33,6,467,2,241,4
-7,Sun,2020-10-25,4:25PM,Kansas City Chiefs,@,Denver Broncos,boxscore,43,16,286,1,411,4
-7,Sun,2020-10-25,4:25PM,Los Angeles Chargers,,Jacksonville Jaguars,boxscore,39,29,484,0,294,1
-7,Sun,2020-10-25,8:20PM,Arizona Cardinals,,Seattle Seahawks,boxscore,37,34,519,2,572,3
-7,Mon,2020-10-26,8:15PM,Los Angeles Rams,,Chicago Bears,boxscore,24,10,371,1,279,2
-8,Thu,2020-10-29,8:20PM,Atlanta Falcons,@,Carolina Panthers,boxscore,25,17,401,1,304,1
-8,Sun,2020-11-01,1:00PM,Minnesota Vikings,@,Green Bay Packers,boxscore,28,22,324,0,400,1
-8,Sun,2020-11-01,1:00PM,Miami Dolphins,,Los Angeles Rams,boxscore,28,17,145,2,471,4
-8,Sun,2020-11-01,1:00PM,Pittsburgh Steelers,@,Baltimore Ravens,boxscore,28,24,221,1,457,4
-8,Sun,2020-11-01,1:00PM,Indianapolis Colts,@,Detroit Lions,boxscore,41,21,366,0,326,2
-8,Sun,2020-11-01,1:00PM,Buffalo Bills,,New England Patriots,boxscore,24,21,339,1,349,1
-8,Sun,2020-11-01,1:00PM,Cincinnati Bengals,,Tennessee Titans,boxscore,31,20,367,0,441,1
-8,Sun,2020-11-01,1:00PM,Las Vegas Raiders,@,Cleveland Browns,boxscore,16,6,309,0,223,1
-8,Sun,2020-11-01,1:00PM,Kansas City Chiefs,,New York Jets,boxscore,35,9,496,0,221,1
-8,Sun,2020-11-01,4:05PM,Denver Broncos,,Los Angeles Chargers,boxscore,31,30,351,1,485,2
-8,Sun,2020-11-01,4:25PM,Seattle Seahawks,,San Francisco 49ers,boxscore,37,27,350,0,351,2
-8,Sun,2020-11-01,4:25PM,New Orleans Saints,@,Chicago Bears,boxscore,26,23,394,0,329,1
-8,Sun,2020-11-01,8:20PM,Philadelphia Eagles,,Dallas Cowboys,boxscore,23,9,222,4,265,2
-8,Mon,2020-11-02,8:15PM,Tampa Bay Buccaneers,@,New York Giants,boxscore,25,23,344,1,357,2
-9,Thu,2020-11-05,8:20PM,Green Bay Packers,@,San Francisco 49ers,boxscore,34,17,405,0,337,2
-9,Sun,2020-11-08,1:00PM,Baltimore Ravens,@,Indianapolis Colts,boxscore,24,10,266,1,339,2
-9,Sun,2020-11-08,1:00PM,Minnesota Vikings,,Detroit Lions,boxscore,34,20,487,0,421,3
-9,Sun,2020-11-08,1:00PM,Houston Texans,@,Jacksonville Jaguars,boxscore,27,25,374,1,403,1
-9,Sun,2020-11-08,1:00PM,Atlanta Falcons,,Denver Broncos,boxscore,34,27,363,1,405,1
-9,Sun,2020-11-08,1:00PM,Buffalo Bills,,Seattle Seahawks,boxscore,44,34,420,0,419,4
-9,Sun,2020-11-08,1:00PM,New York Giants,@,Washington Football Team,boxscore,23,20,350,0,402,5
-9,Sun,2020-11-08,1:00PM,Kansas City Chiefs,,Carolina Panthers,boxscore,33,31,397,1,435,0
-9,Sun,2020-11-08,1:00PM,Tennessee Titans,,Chicago Bears,boxscore,24,17,228,0,375,2
-9,Sun,2020-11-08,4:05PM,Las Vegas Raiders,@,Los Angeles Chargers,boxscore,31,26,320,1,440,1
-9,Sun,2020-11-08,4:25PM,Miami Dolphins,@,Arizona Cardinals,boxscore,34,31,312,0,442,1
-9,Sun,2020-11-08,4:25PM,Pittsburgh Steelers,@,Dallas Cowboys,boxscore,24,19,355,0,364,2
-9,Sun,2020-11-08,8:20PM,New Orleans Saints,@,Tampa Bay Buccaneers,boxscore,38,3,420,2,194,3
-9,Mon,2020-11-09,8:15PM,New England Patriots,@,New York Jets,boxscore,30,27,433,0,322,1
-10,Thu,2020-11-12,8:20PM,Indianapolis Colts,@,Tennessee Titans,boxscore,34,17,430,0,294,0
-10,Sun,2020-11-15,1:00PM,Detroit Lions,,Washington Football Team,boxscore,30,27,372,0,464,1
-10,Sun,2020-11-15,1:00PM,Green Bay Packers,,Jacksonville Jaguars,boxscore,24,20,395,2,260,1
-10,Sun,2020-11-15,1:00PM,Cleveland Browns,,Houston Texans,boxscore,10,7,356,0,243,0
-10,Sun,2020-11-15,1:00PM,Tampa Bay Buccaneers,@,Carolina Panthers,boxscore,46,23,544,1,187,1
-10,Sun,2020-11-15,1:00PM,New York Giants,,Philadelphia Eagles,boxscore,27,17,382,0,346,0
-10,Sun,2020-11-15,4:05PM,Las Vegas Raiders,,Denver Broncos,boxscore,37,12,357,0,313,5
-10,Sun,2020-11-15,4:05PM,Miami Dolphins,,Los Angeles Chargers,boxscore,29,21,280,1,273,1
-10,Sun,2020-11-15,4:05PM,Arizona Cardinals,,Buffalo Bills,boxscore,32,30,453,2,369,2
-10,Sun,2020-11-15,4:25PM,Pittsburgh Steelers,,Cincinnati Bengals,boxscore,36,10,377,0,324,2
-10,Sun,2020-11-15,4:25PM,New Orleans Saints,,San Francisco 49ers,boxscore,27,13,237,2,281,4
-10,Sun,2020-11-15,4:25PM,Los Angeles Rams,,Seattle Seahawks,boxscore,23,16,389,1,333,3
-10,Sun,2020-11-15,8:20PM,New England Patriots,,Baltimore Ravens,boxscore,23,17,308,0,357,1
-10,Mon,2020-11-16,8:15PM,Minnesota Vikings,@,Chicago Bears,boxscore,19,13,385,2,149,2
-11,Thu,2020-11-19,8:20PM,Seattle Seahawks,,Arizona Cardinals,boxscore,28,21,347,0,314,0
-11,Sun,2020-11-22,1:00PM,Tennessee Titans,@,Baltimore Ravens,boxscore,30,24,423,1,306,1
-11,Sun,2020-11-22,1:00PM,Houston Texans,,New England Patriots,boxscore,27,20,399,0,435,0
-11,Sun,2020-11-22,1:00PM,New Orleans Saints,,Atlanta Falcons,boxscore,24,9,376,1,248,2
-11,Sun,2020-11-22,1:00PM,Washington Football Team,,Cincinnati Bengals,boxscore,20,9,325,1,272,2
-11,Sun,2020-11-22,1:00PM,Pittsburgh Steelers,@,Jacksonville Jaguars,boxscore,27,3,373,1,206,4
-11,Sun,2020-11-22,1:00PM,Cleveland Browns,,Philadelphia Eagles,boxscore,22,17,324,1,315,3
-11,Sun,2020-11-22,1:00PM,Carolina Panthers,,Detroit Lions,boxscore,20,0,374,2,185,1
-11,Sun,2020-11-22,4:05PM,Los Angeles Chargers,,New York Jets,boxscore,34,28,376,1,292,1
-11,Sun,2020-11-22,4:05PM,Denver Broncos,,Miami Dolphins,boxscore,20,13,459,2,223,1
-11,Sun,2020-11-22,4:25PM,Indianapolis Colts,,Green Bay Packers,boxscore,34,31,420,2,367,4
-11,Sun,2020-11-22,4:25PM,Dallas Cowboys,@,Minnesota Vikings,boxscore,31,28,376,1,430,2
-11,Sun,2020-11-22,8:20PM,Kansas City Chiefs,@,Las Vegas Raiders,boxscore,35,31,460,1,364,1
-11,Mon,2020-11-23,8:15PM,Los Angeles Rams,@,Tampa Bay Buccaneers,boxscore,27,24,413,2,251,2
-12,Thu,2020-11-26,12:30PM,Houston Texans,@,Detroit Lions,boxscore,41,25,384,1,388,3
-12,Thu,2020-11-26,4:30PM,Washington Football Team,@,Dallas Cowboys,boxscore,41,16,338,1,247,2
-12,Sun,2020-11-29,1:00PM,Atlanta Falcons,,Las Vegas Raiders,boxscore,43,6,304,1,243,5
-12,Sun,2020-11-29,1:00PM,Buffalo Bills,,Los Angeles Chargers,boxscore,27,17,332,3,367,1
-12,Sun,2020-11-29,1:00PM,New York Giants,@,Cincinnati Bengals,boxscore,19,17,386,1,155,3
-12,Sun,2020-11-29,1:00PM,Cleveland Browns,@,Jacksonville Jaguars,boxscore,27,25,459,1,375,0
-12,Sun,2020-11-29,1:00PM,Miami Dolphins,@,New York Jets,boxscore,20,3,345,2,260,2
-12,Sun,2020-11-29,1:00PM,Tennessee Titans,@,Indianapolis Colts,boxscore,45,26,449,0,336,1
-12,Sun,2020-11-29,1:00PM,New England Patriots,,Arizona Cardinals,boxscore,20,17,179,2,298,1
-12,Sun,2020-11-29,1:00PM,Minnesota Vikings,,Carolina Panthers,boxscore,28,27,387,3,374,1
-12,Sun,2020-11-29,4:05PM,New Orleans Saints,@,Denver Broncos,boxscore,31,3,292,1,112,3
-12,Sun,2020-11-29,4:05PM,San Francisco 49ers,@,Los Angeles Rams,boxscore,23,20,345,3,308,4
-12,Sun,2020-11-29,4:25PM,Kansas City Chiefs,@,Tampa Bay Buccaneers,boxscore,27,24,543,1,417,2
-12,Sun,2020-11-29,8:20PM,Green Bay Packers,,Chicago Bears,boxscore,41,25,393,0,350,3
-12,Mon,2020-11-30,8:15PM,Seattle Seahawks,@,Philadelphia Eagles,boxscore,23,17,301,0,250,1
-12,Wed,2020-12-02,3:40PM,Pittsburgh Steelers,,Baltimore Ravens,boxscore,19,14,334,2,219,2
-13,Sun,2020-12-06,1:00PM,Indianapolis Colts,@,Houston Texans,boxscore,26,20,371,0,398,2
-13,Sun,2020-12-06,1:00PM,Las Vegas Raiders,@,New York Jets,boxscore,31,28,440,2,376,3
-13,Sun,2020-12-06,1:00PM,Detroit Lions,@,Chicago Bears,boxscore,34,30,460,1,389,1
-13,Sun,2020-12-06,1:00PM,Minnesota Vikings,,Jacksonville Jaguars,boxscore,27,24,420,2,390,4
-13,Sun,2020-12-06,1:00PM,New Orleans Saints,@,Atlanta Falcons,boxscore,21,16,424,1,332,1
-13,Sun,2020-12-06,1:00PM,Miami Dolphins,,Cincinnati Bengals,boxscore,19,7,406,1,196,2
-13,Sun,2020-12-06,1:00PM,Cleveland Browns,@,Tennessee Titans,boxscore,41,35,458,1,431,3
-13,Sun,2020-12-06,4:05PM,Los Angeles Rams,@,Arizona Cardinals,boxscore,38,28,463,1,232,2
-13,Sun,2020-12-06,4:05PM,New York Giants,@,Seattle Seahawks,boxscore,17,12,290,1,327,2
-13,Sun,2020-12-06,4:25PM,New England Patriots,@,Los Angeles Chargers,boxscore,45,0,291,0,258,2
-13,Sun,2020-12-06,4:25PM,Green Bay Packers,,Philadelphia Eagles,boxscore,30,16,437,0,278,1
-13,Sun,2020-12-06,8:20PM,Kansas City Chiefs,,Denver Broncos,boxscore,22,16,447,0,330,2
-13,Mon,2020-12-07,5:00PM,Washington Football Team,@,Pittsburgh Steelers,boxscore,23,17,318,0,326,1
-13,Mon,2020-12-07,8:15PM,Buffalo Bills,@,San Francisco 49ers,boxscore,34,24,449,1,402,2
-13,Tue,2020-12-08,8:05PM,Baltimore Ravens,,Dallas Cowboys,boxscore,34,17,401,1,388,1
-14,Thu,2020-12-10,8:20PM,Los Angeles Rams,,New England Patriots,boxscore,24,3,318,1,220,1
-14,Sun,2020-12-13,1:00PM,Dallas Cowboys,@,Cincinnati Bengals,boxscore,30,7,272,0,309,3
-14,Sun,2020-12-13,1:00PM,Kansas City Chiefs,@,Miami Dolphins,boxscore,33,27,448,4,367,1
-14,Sun,2020-12-13,1:00PM,Tampa Bay Buccaneers,,Minnesota Vikings,boxscore,26,14,303,0,335,1
-14,Sun,2020-12-13,1:00PM,Arizona Cardinals,@,New York Giants,boxscore,26,7,390,0,159,3
-14,Sun,2020-12-13,1:00PM,Denver Broncos,@,Carolina Panthers,boxscore,32,27,365,1,370,0
-14,Sun,2020-12-13,1:00PM,Chicago Bears,,Houston Texans,boxscore,36,7,410,0,263,2
-14,Sun,2020-12-13,1:00PM,Tennessee Titans,@,Jacksonville Jaguars,boxscore,31,10,454,1,354,1
-14,Sun,2020-12-13,4:05PM,Indianapolis Colts,@,Las Vegas Raiders,boxscore,44,27,456,0,424,3
-14,Sun,2020-12-13,4:05PM,Seattle Seahawks,,New York Jets,boxscore,40,3,410,1,185,1
-14,Sun,2020-12-13,4:25PM,Philadelphia Eagles,,New Orleans Saints,boxscore,24,21,413,1,358,2
-14,Sun,2020-12-13,4:25PM,Los Angeles Chargers,,Atlanta Falcons,boxscore,20,17,345,1,319,3
-14,Sun,2020-12-13,4:25PM,Green Bay Packers,@,Detroit Lions,boxscore,31,24,410,0,293,0
-14,Sun,2020-12-13,4:25PM,Washington Football Team,@,San Francisco 49ers,boxscore,23,15,193,1,344,3
-14,Sun,2020-12-13,8:20PM,Buffalo Bills,,Pittsburgh Steelers,boxscore,26,15,334,2,224,2
-14,Mon,2020-12-14,8:15PM,Baltimore Ravens,@,Cleveland Browns,boxscore,47,42,385,0,493,1
-15,Thu,2020-12-17,8:20PM,Los Angeles Chargers,@,Las Vegas Raiders,boxscore,30,27,402,0,449,1
-15,Sat,2020-12-19,4:30PM,Buffalo Bills,@,Denver Broncos,boxscore,48,19,534,1,255,1
-15,Sat,2020-12-19,8:15PM,Green Bay Packers,,Carolina Panthers,boxscore,24,16,291,0,364,1
-15,Sun,2020-12-20,1:00PM,Indianapolis Colts,,Houston Texans,boxscore,27,20,350,0,425,2
-15,Sun,2020-12-20,1:00PM,Dallas Cowboys,,San Francisco 49ers,boxscore,41,33,291,0,458,4
-15,Sun,2020-12-20,1:00PM,Chicago Bears,@,Minnesota Vikings,boxscore,33,27,397,1,407,1
-15,Sun,2020-12-20,1:00PM,Baltimore Ravens,,Jacksonville Jaguars,boxscore,40,14,409,1,267,1
-15,Sun,2020-12-20,1:00PM,Tampa Bay Buccaneers,@,Atlanta Falcons,boxscore,31,27,416,0,369,0
-15,Sun,2020-12-20,1:00PM,Tennessee Titans,,Detroit Lions,boxscore,46,25,463,0,430,3
-15,Sun,2020-12-20,1:00PM,Seattle Seahawks,@,Washington Football Team,boxscore,20,15,302,1,353,2
-15,Sun,2020-12-20,1:00PM,Miami Dolphins,,New England Patriots,boxscore,22,12,383,1,303,1
-15,Sun,2020-12-20,4:05PM,Arizona Cardinals,,Philadelphia Eagles,boxscore,33,26,526,3,422,0
-15,Sun,2020-12-20,4:05PM,New York Jets,@,Los Angeles Rams,boxscore,23,20,289,0,303,1
-15,Sun,2020-12-20,4:25PM,Kansas City Chiefs,@,New Orleans Saints,boxscore,32,29,411,1,285,1
-15,Sun,2020-12-20,8:20PM,Cleveland Browns,@,New York Giants,boxscore,20,6,392,0,288,0
-15,Mon,2020-12-21,8:15PM,Cincinnati Bengals,,Pittsburgh Steelers,boxscore,27,17,230,0,244,3
-16,Fri,2020-12-25,4:30PM,New Orleans Saints,,Minnesota Vikings,boxscore,52,33,583,2,364,0
-16,Sat,2020-12-26,1:00PM,Tampa Bay Buccaneers,@,Detroit Lions,boxscore,47,7,588,0,186,2
-16,Sat,2020-12-26,4:30PM,San Francisco 49ers,@,Arizona Cardinals,boxscore,20,12,398,1,350,2
-16,Sat,2020-12-26,8:15PM,Miami Dolphins,@,Las Vegas Raiders,boxscore,26,25,383,0,418,1
-16,Sun,2020-12-27,1:00PM,Kansas City Chiefs,,Atlanta Falcons,boxscore,17,14,395,2,367,1
-16,Sun,2020-12-27,1:00PM,Cincinnati Bengals,@,Houston Texans,boxscore,37,31,540,0,488,1
-16,Sun,2020-12-27,1:00PM,New York Jets,,Cleveland Browns,boxscore,23,16,333,0,299,2
-16,Sun,2020-12-27,1:00PM,Pittsburgh Steelers,,Indianapolis Colts,boxscore,28,24,354,0,365,2
-16,Sun,2020-12-27,1:00PM,Baltimore Ravens,,New York Giants,boxscore,27,13,432,1,269,0
-16,Sun,2020-12-27,1:00PM,Chicago Bears,@,Jacksonville Jaguars,boxscore,41,17,391,1,279,2
-16,Sun,2020-12-27,4:05PM,Los Angeles Chargers,,Denver Broncos,boxscore,19,16,316,0,396,2
-16,Sun,2020-12-27,4:05PM,Carolina Panthers,@,Washington Football Team,boxscore,20,13,280,2,386,4
-16,Sun,2020-12-27,4:25PM,Seattle Seahawks,,Los Angeles Rams,boxscore,20,9,292,0,334,1
-16,Sun,2020-12-27,4:25PM,Dallas Cowboys,,Philadelphia Eagles,boxscore,37,17,513,1,477,3
-16,Sun,2020-12-27,8:20PM,Green Bay Packers,,Tennessee Titans,boxscore,40,14,448,1,260,2
-16,Mon,2020-12-28,8:15PM,Buffalo Bills,@,New England Patriots,boxscore,38,9,474,0,201,0
-17,Sun,2021-01-03,1:00PM,New York Giants,,Dallas Cowboys,boxscore,23,19,336,2,307,1
-17,Sun,2021-01-03,1:00PM,Tampa Bay Buccaneers,,Atlanta Falcons,boxscore,44,27,485,1,385,2
-17,Sun,2021-01-03,1:00PM,New England Patriots,,New York Jets,boxscore,28,14,404,0,350,2
-17,Sun,2021-01-03,1:00PM,Buffalo Bills,,Miami Dolphins,boxscore,56,26,455,2,454,4
-17,Sun,2021-01-03,1:00PM,Minnesota Vikings,@,Detroit Lions,boxscore,37,35,508,0,417,2
-17,Sun,2021-01-03,1:00PM,Baltimore Ravens,@,Cincinnati Bengals,boxscore,38,3,525,1,195,2
-17,Sun,2021-01-03,1:00PM,Cleveland Browns,,Pittsburgh Steelers,boxscore,24,22,358,0,394,1
-17,Sun,2021-01-03,4:25PM,Indianapolis Colts,,Jacksonville Jaguars,boxscore,28,14,437,1,283,1
-17,Sun,2021-01-03,4:25PM,Los Angeles Rams,,Arizona Cardinals,boxscore,18,7,333,2,214,1
-17,Sun,2021-01-03,4:25PM,New Orleans Saints,@,Carolina Panthers,boxscore,33,7,347,0,320,5
-17,Sun,2021-01-03,4:25PM,Seattle Seahawks,@,San Francisco 49ers,boxscore,26,23,280,0,328,1
-17,Sun,2021-01-03,4:25PM,Green Bay Packers,@,Chicago Bears,boxscore,35,16,316,1,356,2
-17,Sun,2021-01-03,4:25PM,Los Angeles Chargers,@,Kansas City Chiefs,boxscore,38,21,416,0,268,1
-17,Sun,2021-01-03,4:25PM,Las Vegas Raiders,@,Denver Broncos,boxscore,32,31,465,4,446,0
-17,Sun,2021-01-03,4:25PM,Tennessee Titans,@,Houston Texans,boxscore,41,38,492,1,457,1
-17,Sun,2021-01-03,8:20PM,Washington Football Team,@,Philadelphia Eagles,boxscore,20,14,248,2,216,3
+,Week,Team1,Team2,Team1Win,Team2Win
+0,1,Houston Texans,Kansas City Chiefs,0,1
+1,1,Seattle Seahawks,Atlanta Falcons,1,0
+2,1,New York Jets,Buffalo Bills,0,1
+3,1,Philadelphia Eagles,Washington Football Team,0,1
+4,1,Green Bay Packers,Minnesota Vikings,1,0
+5,1,Cleveland Browns,Baltimore Ravens,0,1
+6,1,Miami Dolphins,New England Patriots,0,1
+7,1,Indianapolis Colts,Jacksonville Jaguars,0,1
+8,1,Las Vegas Raiders,Carolina Panthers,1,0
+9,1,Chicago Bears,Detroit Lions,1,0
+10,1,Los Angeles Chargers,Cincinnati Bengals,1,0
+11,1,Tampa Bay Buccaneers,New Orleans Saints,0,1
+12,1,Arizona Cardinals,San Francisco 49ers,1,0
+13,1,Dallas Cowboys,Los Angeles Rams,0,1
+14,1,Pittsburgh Steelers,New York Giants,1,0
+15,1,Tennessee Titans,Denver Broncos,1,0
+16,2,Cincinnati Bengals,Cleveland Browns,0,1
+17,2,San Francisco 49ers,New York Jets,1,0
+18,2,Denver Broncos,Pittsburgh Steelers,0,1
+19,2,Carolina Panthers,Tampa Bay Buccaneers,0,1
+20,2,Detroit Lions,Green Bay Packers,0,1
+21,2,New York Giants,Chicago Bears,0,1
+22,2,Jacksonville Jaguars,Tennessee Titans,0,1
+23,2,Atlanta Falcons,Dallas Cowboys,0,1
+24,2,Buffalo Bills,Miami Dolphins,1,0
+25,2,Los Angeles Rams,Philadelphia Eagles,1,0
+26,2,Minnesota Vikings,Indianapolis Colts,0,1
+27,2,Washington Football Team,Arizona Cardinals,0,1
+28,2,Baltimore Ravens,Houston Texans,1,0
+29,2,Kansas City Chiefs,Los Angeles Chargers,1,0
+30,2,New England Patriots,Seattle Seahawks,0,1
+31,2,New Orleans Saints,Las Vegas Raiders,0,1
+32,3,Miami Dolphins,Jacksonville Jaguars,1,0
+33,3,Chicago Bears,Atlanta Falcons,1,0
+34,3,Los Angeles Rams,Buffalo Bills,0,1
+35,3,Cincinnati Bengals,Philadelphia Eagles,0,1
+36,3,Tennessee Titans,Minnesota Vikings,1,0
+37,3,Las Vegas Raiders,New England Patriots,0,1
+38,3,San Francisco 49ers,New York Giants,1,0
+39,3,Houston Texans,Pittsburgh Steelers,0,1
+40,3,Washington Football Team,Cleveland Browns,0,1
+41,3,New York Jets,Indianapolis Colts,0,1
+42,3,Carolina Panthers,Los Angeles Chargers,1,0
+43,3,Dallas Cowboys,Seattle Seahawks,0,1
+44,3,Detroit Lions,Arizona Cardinals,1,0
+45,3,Tampa Bay Buccaneers,Denver Broncos,1,0
+46,3,Green Bay Packers,New Orleans Saints,1,0
+47,3,Kansas City Chiefs,Baltimore Ravens,1,0
+48,4,Denver Broncos,New York Jets,1,0
+49,4,Arizona Cardinals,Carolina Panthers,0,1
+50,4,Baltimore Ravens,Washington Football Team,1,0
+51,4,Minnesota Vikings,Houston Texans,1,0
+52,4,Cleveland Browns,Dallas Cowboys,1,0
+53,4,New Orleans Saints,Detroit Lions,1,0
+54,4,Indianapolis Colts,Chicago Bears,1,0
+55,4,Los Angeles Chargers,Tampa Bay Buccaneers,0,1
+56,4,Jacksonville Jaguars,Cincinnati Bengals,0,1
+57,4,Seattle Seahawks,Miami Dolphins,1,0
+58,4,New York Giants,Los Angeles Rams,0,1
+59,4,Buffalo Bills,Las Vegas Raiders,1,0
+60,4,Philadelphia Eagles,San Francisco 49ers,1,0
+61,4,New England Patriots,Kansas City Chiefs,0,1
+62,4,Atlanta Falcons,Green Bay Packers,0,1
+63,5,Tampa Bay Buccaneers,Chicago Bears,0,1
+64,5,Carolina Panthers,Atlanta Falcons,1,0
+65,5,Arizona Cardinals,New York Jets,1,0
+66,5,Cincinnati Bengals,Baltimore Ravens,0,1
+67,5,Las Vegas Raiders,Kansas City Chiefs,1,0
+68,5,Philadelphia Eagles,Pittsburgh Steelers,0,1
+69,5,Los Angeles Rams,Washington Football Team,1,0
+70,5,Jacksonville Jaguars,Houston Texans,0,1
+71,5,Miami Dolphins,San Francisco 49ers,1,0
+72,5,New York Giants,Dallas Cowboys,0,1
+73,5,Indianapolis Colts,Cleveland Browns,0,1
+74,5,Minnesota Vikings,Seattle Seahawks,0,1
+75,5,Los Angeles Chargers,New Orleans Saints,0,1
+76,5,Buffalo Bills,Tennessee Titans,0,1
+77,6,Detroit Lions,Jacksonville Jaguars,1,0
+78,6,Denver Broncos,New England Patriots,1,0
+79,6,Baltimore Ravens,Philadelphia Eagles,1,0
+80,6,Houston Texans,Tennessee Titans,0,1
+81,6,Cleveland Browns,Pittsburgh Steelers,0,1
+82,6,Atlanta Falcons,Minnesota Vikings,1,0
+83,6,Washington Football Team,New York Giants,0,1
+84,6,Chicago Bears,Carolina Panthers,1,0
+85,6,Cincinnati Bengals,Indianapolis Colts,0,1
+86,6,New York Jets,Miami Dolphins,0,1
+87,6,Green Bay Packers,Tampa Bay Buccaneers,0,1
+88,6,Los Angeles Rams,San Francisco 49ers,0,1
+89,6,Kansas City Chiefs,Buffalo Bills,1,0
+90,6,Arizona Cardinals,Dallas Cowboys,1,0
+91,7,New York Giants,Philadelphia Eagles,0,1
+92,7,Pittsburgh Steelers,Tennessee Titans,1,0
+93,7,Green Bay Packers,Houston Texans,1,0
+94,7,Detroit Lions,Atlanta Falcons,1,0
+95,7,Buffalo Bills,New York Jets,1,0
+96,7,Dallas Cowboys,Washington Football Team,0,1
+97,7,Carolina Panthers,New Orleans Saints,0,1
+98,7,Cleveland Browns,Cincinnati Bengals,1,0
+99,7,Tampa Bay Buccaneers,Las Vegas Raiders,1,0
+100,7,San Francisco 49ers,New England Patriots,1,0
+101,7,Kansas City Chiefs,Denver Broncos,1,0
+102,7,Jacksonville Jaguars,Los Angeles Chargers,0,1
+103,7,Seattle Seahawks,Arizona Cardinals,0,1
+104,7,Chicago Bears,Los Angeles Rams,0,1
+105,8,Atlanta Falcons,Carolina Panthers,1,0
+106,8,Minnesota Vikings,Green Bay Packers,1,0
+107,8,Los Angeles Rams,Miami Dolphins,0,1
+108,8,Pittsburgh Steelers,Baltimore Ravens,1,0
+109,8,Indianapolis Colts,Detroit Lions,1,0
+110,8,New England Patriots,Buffalo Bills,0,1
+111,8,Tennessee Titans,Cincinnati Bengals,0,1
+112,8,Las Vegas Raiders,Cleveland Browns,1,0
+113,8,New York Jets,Kansas City Chiefs,0,1
+114,8,Los Angeles Chargers,Denver Broncos,0,1
+115,8,San Francisco 49ers,Seattle Seahawks,0,1
+116,8,New Orleans Saints,Chicago Bears,1,0
+117,8,Dallas Cowboys,Philadelphia Eagles,0,1
+118,8,Tampa Bay Buccaneers,New York Giants,1,0
+119,9,Green Bay Packers,San Francisco 49ers,1,0
+120,9,Baltimore Ravens,Indianapolis Colts,1,0
+121,9,Detroit Lions,Minnesota Vikings,0,1
+122,9,Houston Texans,Jacksonville Jaguars,1,0
+123,9,Denver Broncos,Atlanta Falcons,0,1
+124,9,Seattle Seahawks,Buffalo Bills,0,1
+125,9,New York Giants,Washington Football Team,1,0
+126,9,Carolina Panthers,Kansas City Chiefs,0,1
+127,9,Chicago Bears,Tennessee Titans,0,1
+128,9,Las Vegas Raiders,Los Angeles Chargers,1,0
+129,9,Miami Dolphins,Arizona Cardinals,1,0
+130,9,Pittsburgh Steelers,Dallas Cowboys,1,0
+131,9,New Orleans Saints,Tampa Bay Buccaneers,1,0
+132,9,New England Patriots,New York Jets,1,0
+133,10,Indianapolis Colts,Tennessee Titans,1,0
+134,10,Washington Football Team,Detroit Lions,0,1
+135,10,Jacksonville Jaguars,Green Bay Packers,0,1
+136,10,Houston Texans,Cleveland Browns,0,1
+137,10,Tampa Bay Buccaneers,Carolina Panthers,1,0
+138,10,Philadelphia Eagles,New York Giants,0,1
+139,10,Denver Broncos,Las Vegas Raiders,0,1
+140,10,Los Angeles Chargers,Miami Dolphins,0,1
+141,10,Buffalo Bills,Arizona Cardinals,0,1
+142,10,Cincinnati Bengals,Pittsburgh Steelers,0,1
+143,10,San Francisco 49ers,New Orleans Saints,0,1
+144,10,Seattle Seahawks,Los Angeles Rams,0,1
+145,10,Baltimore Ravens,New England Patriots,0,1
+146,10,Minnesota Vikings,Chicago Bears,1,0
+147,11,Arizona Cardinals,Seattle Seahawks,0,1
+148,11,Tennessee Titans,Baltimore Ravens,1,0
+149,11,New England Patriots,Houston Texans,0,1
+150,11,Atlanta Falcons,New Orleans Saints,0,1
+151,11,Cincinnati Bengals,Washington Football Team,0,1
+152,11,Pittsburgh Steelers,Jacksonville Jaguars,1,0
+153,11,Philadelphia Eagles,Cleveland Browns,0,1
+154,11,Detroit Lions,Carolina Panthers,0,1
+155,11,New York Jets,Los Angeles Chargers,0,1
+156,11,Miami Dolphins,Denver Broncos,0,1
+157,11,Green Bay Packers,Indianapolis Colts,0,1
+158,11,Dallas Cowboys,Minnesota Vikings,1,0
+159,11,Kansas City Chiefs,Las Vegas Raiders,1,0
+160,11,Los Angeles Rams,Tampa Bay Buccaneers,1,0
+161,12,Houston Texans,Detroit Lions,1,0
+162,12,Washington Football Team,Dallas Cowboys,1,0
+163,12,Las Vegas Raiders,Atlanta Falcons,0,1
+164,12,Los Angeles Chargers,Buffalo Bills,0,1
+165,12,New York Giants,Cincinnati Bengals,1,0
+166,12,Cleveland Browns,Jacksonville Jaguars,1,0
+167,12,Miami Dolphins,New York Jets,1,0
+168,12,Tennessee Titans,Indianapolis Colts,1,0
+169,12,Arizona Cardinals,New England Patriots,0,1
+170,12,Carolina Panthers,Minnesota Vikings,0,1
+171,12,New Orleans Saints,Denver Broncos,1,0
+172,12,San Francisco 49ers,Los Angeles Rams,1,0
+173,12,Kansas City Chiefs,Tampa Bay Buccaneers,1,0
+174,12,Chicago Bears,Green Bay Packers,0,1
+175,12,Seattle Seahawks,Philadelphia Eagles,1,0
+176,12,Baltimore Ravens,Pittsburgh Steelers,0,1
+177,13,Indianapolis Colts,Houston Texans,1,0
+178,13,Las Vegas Raiders,New York Jets,1,0
+179,13,Detroit Lions,Chicago Bears,1,0
+180,13,Jacksonville Jaguars,Minnesota Vikings,0,1
+181,13,New Orleans Saints,Atlanta Falcons,1,0
+182,13,Cincinnati Bengals,Miami Dolphins,0,1
+183,13,Cleveland Browns,Tennessee Titans,1,0
+184,13,Los Angeles Rams,Arizona Cardinals,1,0
+185,13,New York Giants,Seattle Seahawks,1,0
+186,13,New England Patriots,Los Angeles Chargers,1,0
+187,13,Philadelphia Eagles,Green Bay Packers,0,1
+188,13,Denver Broncos,Kansas City Chiefs,0,1
+189,13,Washington Football Team,Pittsburgh Steelers,1,0
+190,13,Buffalo Bills,San Francisco 49ers,1,0
+191,13,Dallas Cowboys,Baltimore Ravens,0,1
+192,14,New England Patriots,Los Angeles Rams,0,1
+193,14,Dallas Cowboys,Cincinnati Bengals,1,0
+194,14,Kansas City Chiefs,Miami Dolphins,1,0
+195,14,Minnesota Vikings,Tampa Bay Buccaneers,0,1
+196,14,Arizona Cardinals,New York Giants,1,0
+197,14,Denver Broncos,Carolina Panthers,1,0
+198,14,Houston Texans,Chicago Bears,0,1
+199,14,Tennessee Titans,Jacksonville Jaguars,1,0
+200,14,Indianapolis Colts,Las Vegas Raiders,1,0
+201,14,New York Jets,Seattle Seahawks,0,1
+202,14,New Orleans Saints,Philadelphia Eagles,0,1
+203,14,Atlanta Falcons,Los Angeles Chargers,0,1
+204,14,Green Bay Packers,Detroit Lions,1,0
+205,14,Washington Football Team,San Francisco 49ers,1,0
+206,14,Pittsburgh Steelers,Buffalo Bills,0,1
+207,14,Baltimore Ravens,Cleveland Browns,1,0
+208,15,Los Angeles Chargers,Las Vegas Raiders,1,0
+209,15,Buffalo Bills,Denver Broncos,1,0
+210,15,Carolina Panthers,Green Bay Packers,0,1
+211,15,Houston Texans,Indianapolis Colts,0,1
+212,15,San Francisco 49ers,Dallas Cowboys,0,1
+213,15,Chicago Bears,Minnesota Vikings,1,0
+214,15,Jacksonville Jaguars,Baltimore Ravens,0,1
+215,15,Tampa Bay Buccaneers,Atlanta Falcons,1,0
+216,15,Detroit Lions,Tennessee Titans,0,1
+217,15,Seattle Seahawks,Washington Football Team,1,0
+218,15,New England Patriots,Miami Dolphins,0,1
+219,15,Philadelphia Eagles,Arizona Cardinals,0,1
+220,15,New York Jets,Los Angeles Rams,1,0
+221,15,Kansas City Chiefs,New Orleans Saints,1,0
+222,15,Cleveland Browns,New York Giants,1,0
+223,15,Pittsburgh Steelers,Cincinnati Bengals,0,1
+224,16,Minnesota Vikings,New Orleans Saints,0,1
+225,16,Tampa Bay Buccaneers,Detroit Lions,1,0
+226,16,San Francisco 49ers,Arizona Cardinals,1,0
+227,16,Miami Dolphins,Las Vegas Raiders,1,0
+228,16,Atlanta Falcons,Kansas City Chiefs,0,1
+229,16,Cincinnati Bengals,Houston Texans,1,0
+230,16,Cleveland Browns,New York Jets,0,1
+231,16,Indianapolis Colts,Pittsburgh Steelers,0,1
+232,16,New York Giants,Baltimore Ravens,0,1
+233,16,Chicago Bears,Jacksonville Jaguars,1,0
+234,16,Denver Broncos,Los Angeles Chargers,0,1
+235,16,Carolina Panthers,Washington Football Team,1,0
+236,16,Los Angeles Rams,Seattle Seahawks,0,1
+237,16,Philadelphia Eagles,Dallas Cowboys,0,1
+238,16,Tennessee Titans,Green Bay Packers,0,1
+239,16,Buffalo Bills,New England Patriots,1,0
+240,17,Dallas Cowboys,New York Giants,0,1
+241,17,Atlanta Falcons,Tampa Bay Buccaneers,0,1
+242,17,New York Jets,New England Patriots,0,1
+243,17,Miami Dolphins,Buffalo Bills,0,1
+244,17,Minnesota Vikings,Detroit Lions,1,0
+245,17,Baltimore Ravens,Cincinnati Bengals,1,0
+246,17,Pittsburgh Steelers,Cleveland Browns,0,1
+247,17,Jacksonville Jaguars,Indianapolis Colts,0,1
+248,17,Arizona Cardinals,Los Angeles Rams,0,1
+249,17,New Orleans Saints,Carolina Panthers,1,0
+250,17,Seattle Seahawks,San Francisco 49ers,1,0
+251,17,Green Bay Packers,Chicago Bears,1,0
+252,17,Los Angeles Chargers,Kansas City Chiefs,1,0
+253,17,Las Vegas Raiders,Denver Broncos,1,0
+254,17,Tennessee Titans,Houston Texans,1,0
+255,17,Washington Football Team,Philadelphia Eagles,1,0
