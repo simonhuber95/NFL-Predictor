@@ -7,11 +7,8 @@ from keras.optimizers import Adam
 from sklearn.model_selection import KFold
 import numpy as np
 
-data_path = "data/team/TeamPerGame{}.csv".format(2020)
-df = pd.read_csv(data_path)
-df = df.drop(['Team','Year'], axis = 1)
-input_shape = len(df.columns)*2 + 2 
-print(df.columns, input_shape)
+
+
 
 # Model configuration
 batch_size = 32
@@ -20,23 +17,24 @@ no_epochs = 25
 optimizer = Adam()
 verbosity = 1
 num_folds = 10
+input_shape = (96,)
 
-def load_data():
-    
-
+def load_data(path):
+    df = pd.read_csv(path)
+    return df
 
 
 def define_model(input_shape, layers = [], dropout = True):
-    model = Sequential
-    model.add(BatchNormalization(input_shape=input_shape))
-    for neurons in layers:
-        model.add(Dense(neurons, activation="relu"))
-        if dropout:
-            model.add(Dropout(0.5))
-    model.add(Dense(2, activation='softmax'))
-	# Compile model
-	model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
-	return model
+  model = Sequential
+  model.add(BatchNormalization(input_shape=input_shape))
+  for neurons in layers:
+      model.add(Dense(neurons, activation="relu"))
+      if dropout:
+          model.add(Dropout(0.5))
+  model.add(Dense(2, activation='softmax'))
+  # Compile model
+  model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+  return model
 
 # Define per-fold score containers
 acc_per_fold = []

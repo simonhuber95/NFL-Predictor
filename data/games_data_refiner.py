@@ -23,6 +23,6 @@ def refine_games(year):
 
 
 for year in range(2001,2021):
-    path = "data/games/Games{}.csv".format(year)
+    path = "data/games_raw/Games{}.csv".format(year)
     df = refine_games(year)
     df.to_csv(path)
