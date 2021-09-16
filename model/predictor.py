@@ -17,17 +17,23 @@ def grep_games(week):
 
 
 def grep_stats():
-    offense = pd.read_csv('data/offense/OffensePerGame2021csv')
-    defense = pd.read_csv('data/defense/DefensePerGame2021csv')
-    return True
+    team_stats = pd.read_csv('data/team/TeamPerGame2021.csv', index_col=0)
+    return team_stats.drop(columns = ['Year'])
 
 
 
 games = grep_games(2)
-print(games)
-# model = keras.models.load_model('model/nfl_predictor_model')
+team_stats = grep_stats()
+model = keras.models.load_model('model/nfl_predictor_model')
 
-# predict_on_data = 
 
-# games = pd.read_csv("data/combined_games.csv").to_numpy()
-# predictions = model.predict_on_batch(predict_on_data)
+for idx, game in games.iterrows():
+    guest_stats = team_stats.loc[team_stats.index == game['Guest']].to_numpy()
+    home_stats = team_stats.loc[team_stats.index == game['Home']].to_numpy()
+
+    print(game['Guest'], '@', game['Home'])
+    predict_on_data = np.append(guest_stats, home_stats)
+    prediction = model.predict_on_batch(np.array([predict_on_data,]))[0]
+    # print(predict_on_data)
+    print('Prediction: {}% {}%'.format(round(prediction[0]*100), round(prediction[1]*100)))
+    print('------------------------------------------')
