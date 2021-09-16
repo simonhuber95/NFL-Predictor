@@ -11,9 +11,9 @@ def load_data():
   return data, labels
 
 def grep_games(week):
-    games = pd.read_csv('data/games-raw/Games2021.csv')
-    games_week = games.loc[games['week'] == week]
-    return games_week
+    games = pd.read_csv('data/games_raw/Games2021.csv')
+    games_week = games.loc[games['Week'] == week]
+    return games_week[['Week', 'Guest', 'Home']]
 
 
 def grep_stats():
@@ -21,10 +21,11 @@ def grep_stats():
 
 
 
-data, labels = load_data()
-model = keras.models.load_model('model/nfl_predictor_model')
+games = grep_games(2)
+print(games)
+# model = keras.models.load_model('model/nfl_predictor_model')
 
-predict_on_data = 
+# predict_on_data = 
 
-games = pd.read_csv("data/combined_games.csv").to_numpy()
-predictions = model.predict_on_batch(predict_on_data)
+# games = pd.read_csv("data/combined_games.csv").to_numpy()
+# predictions = model.predict_on_batch(predict_on_data)
