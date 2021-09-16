@@ -17,6 +17,8 @@ def grep_games(week):
 
 
 def grep_stats():
+    offense = pd.read_csv('data/offense/OffensePerGame2021csv')
+    defense = pd.read_csv('data/defense/DefensePerGame2021csv')
     return True
 
 
