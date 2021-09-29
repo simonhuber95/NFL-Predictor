@@ -22,7 +22,7 @@ def combine_stats(year):
     print(team_df)
     return team_df
 
-for year in range(2001,2022):
+for year in range(2021,2022):
     path = "data/team/TeamPerGame{}.csv".format(year)
     team_df = combine_stats(year)
     team_df.to_csv(path)

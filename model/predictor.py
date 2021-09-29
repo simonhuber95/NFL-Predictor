@@ -22,7 +22,7 @@ def grep_stats():
 
 
 
-games = grep_games(2)
+games = grep_games(week = 3)
 team_stats = grep_stats()
 model = keras.models.load_model('model/nfl_predictor_model')
 
