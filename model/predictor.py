@@ -1,6 +1,9 @@
 import keras
 import pandas as pd
 import numpy as np
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # or any {'0', '1', '2'}
+
 
 def load_data():
   data_path = "data/full_data.csv"
@@ -22,7 +25,7 @@ def grep_stats():
 
 
 
-games = grep_games(week = 3)
+games = grep_games(week = 4)
 team_stats = grep_stats()
 model = keras.models.load_model('model/nfl_predictor_model')
 
